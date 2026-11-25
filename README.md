@@ -15,7 +15,8 @@
 | Proyecto | Descripción | Tecnología | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Prueba1) |
-| **Calculadora** | *(Próximamente)* Calculadora con operaciones básicas. | Java / JS | [Ver código](./Calculadora) |
+| **Calculadora** |  Calculadora con operaciones básicas. | Java | [Ver código](./Calculadora) |
+| **AñoBisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./AñoBisiesto) |
 
 ---
 
