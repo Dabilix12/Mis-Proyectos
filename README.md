@@ -26,11 +26,11 @@
 | **Menu desplegable** |  Ejercicio de practica de html y css sobre como crea un menu desplegable con CSS| Html y Css | [Ver código](./Lenguaje-De-Marcas/menudesplegable) |
 | **Mi Primera Paguina Web Html con CSS** |  Ejercicio de practica de html y css aplicando todo lo posible con HTML y CSS | Html y Css | [Ver código](./Lenguaje-De-Marcas/MiPrimeraPaginaWebHtmlYCss) |
 | **Practica Examen 1** |  Ejercicio de practica de html y css para practicar antes del examen | Html y Css | [Ver código](./Lenguaje-De-Marcas/practica-examen) |
-| **Ejercicio 1** |  Ejercicio de practica de Java Script que dice que numero es mayor de 3 que introducimos| JavaScript | [Ver código](./JS/ejercicio1.html) |
-| **Ejercicio 2** |  Ejercicio de practica de Java Script que dice si el numero introducido es positivo, negativo o igual a 0 | JavaScript | [Ver código](./JS/ejercicio2.html) |
-| **Ejercicio 3** |  Ejercicio de practica de Java Script que sumas 3 numeros solo si son iguales| JavaScript | [Ver código](./JS/ejercicio3.html) |
-| **Ejercicio 4** |  Ejercicio de practica de Java Script que detecta si entre los 3 numeros que el usuario nos introduce son mayore o iguales que 10| JavaScript | [Ver código](./JS/ejercicio4.html) |
-| **Ejercicio 5** |  Ejercicio de practica de Java Script que depende de los numeros que les des te ponen en distintos cuadrantes por coordenadas| JavaScript | [Ver código](./JS/ejercicio5.html) |
+| **Ejercicio 1** |  Ejercicio de practica de Java Script que dice que numero es mayor de 3 que introducimos| JavaScript | [Ver código](./JS/ejercicio1/ejercicio1.html) |
+| **Ejercicio 2** |  Ejercicio de practica de Java Script que dice si el numero introducido es positivo, negativo o igual a 0 | JavaScript | [Ver código](./JS/ejercicio2/ejercicio2.html) |
+| **Ejercicio 3** |  Ejercicio de practica de Java Script que sumas 3 numeros solo si son iguales| JavaScript | [Ver código](./JS/ejercicio3/ejercicio3.html) |
+| **Ejercicio 4** |  Ejercicio de practica de Java Script que detecta si entre los 3 numeros que el usuario nos introduce son mayore o iguales que 10| JavaScript | [Ver código](./JS/ejercicio4/ejercicio4.html) |
+| **Ejercicio 5** |  Ejercicio de practica de Java Script que depende de los numeros que les des te ponen en distintos cuadrantes por coordenadas| JavaScript | [Ver código](./JS/ejercicio5/ejercicio5.htm) |
 ---
 
 ## 📫 Contacto
