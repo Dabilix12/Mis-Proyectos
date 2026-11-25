@@ -1,7 +1,7 @@
 //En este ejercicio buscamo que el usuario nos diga un año y nosotros le vamos a decir si es bisiesto o no.
 
 //Paquete donde se encuentra el programa (Carpeta)
-package AñoBisiesto;
+package Java.AñoBisiesto;
 
 //Necesitaremos importar la libreria Scanner.
 import java.util.Scanner;

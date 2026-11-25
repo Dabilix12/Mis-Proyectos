@@ -1,7 +1,7 @@
 //En este ejercicio buscamos que el usuario nos de un numero entero entre el 1 y el 10 para hacerle la tabla de multiplicar.
 
 //Nombre del proyecto (Carpeta)
-package TablaDeMultiplicar;
+package Java.TablaDeMultiplicar;
 
 //Importamos la libreria Scanner.
 import java.util.Scanner;

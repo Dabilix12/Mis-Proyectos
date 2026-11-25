@@ -14,10 +14,10 @@
 
 | Proyecto | Descripción | Tecnología | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Prueba1) |
-| **Calculadora** |  Calculadora con operaciones básicas. | Java | [Ver código](./Calculadora) |
-| **AñoBisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./AñoBisiesto) |
-| **TablaDeMultiplicar** |  Programa que te hace la tabla de multiplicar del 1 al 10. | Java | [Ver código](./TablaDeMultiplicar) |
+| **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Java/Prueba1) |
+| **Calculadora** |  Calculadora con operaciones básicas. | Java | [Ver código](./Java/Calculadora/) |
+| **AñoBisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./Java/AñoBisiesto/) |
+| **TablaDeMultiplicar** |  Programa que te hace la tabla de multiplicar del 1 al 10. | Java | [Ver código](./Java/TablaDeMultiplicar) |
 ---
 
 ## 📫 Contacto

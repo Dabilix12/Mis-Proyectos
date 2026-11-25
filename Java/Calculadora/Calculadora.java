@@ -5,7 +5,7 @@ Formatea el resultado a dos decimales.
 Con este ejercicio buscamos usar la libreria Scanner y crear condiciones para poder hacer los calculos del IVA.*/
 
 //Nombre de nuestra carpeta, tambien conocidad como paquete.
-package Calculadora;
+package Java.Calculadora;
 //importamos la libreria Scanner para poder leer los datos que nos da el usuario.
 import java.util.Scanner;
 
