@@ -16,8 +16,16 @@
 | :--- | :--- | :--- | :--- |
 | **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Java/Prueba1) |
 | **Calculadora** |  Calculadora con operaciones básicas. | Java | [Ver código](./Java/Calculadora/) |
-| **AñoBisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./Java/AñoBisiesto/) |
-| **TablaDeMultiplicar** |  Programa que te hace la tabla de multiplicar del 1 al 10. | Java | [Ver código](./Java/TablaDeMultiplicar) |
+| **Año bisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./Java/AñoBisiesto/) |
+| **Tabla de multiplicar** |  Programa que te hace la tabla de multiplicar del 1 al 10. | Java | [Ver código](./Java/TablaDeMultiplicar) |
+| **Alagaesia** |  Ejercicio de practica de html y css antes de un examen| Html y Css | [Ver código](./Lenguaje-De-Marcas/Alagaesis) |
+| **Ejercicio 1** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio1) |
+| **Ejercicio 2** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio2) |
+| **Ejercicio 3** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio3) |
+| **Ejercicio 4** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio4) |
+| **Menu desplegable ** |  Ejercicio de practica de html y css sobre como crea un menu desplegable con CSS| Html y Css | [Ver código](./Lenguaje-De-Marcas/menudesplegable) |
+| **Mi Primera Paguina Web Html con CSS** |  Ejercicio de practica de html y css aplicando todo lo posible con HTML y CSS | [Ver código](./Lenguaje-De-Marcas/MiPrimeraPaginaWebHtmlYCss) |
+| **Practica Examen 1** |  Ejercicio de practica de html y css para practicar antes del examen | [Ver código](./Lenguaje-De-Marcas/practica-examen) |
 ---
 
 ## 📫 Contacto
