@@ -27,6 +27,7 @@ public class TablaDeMultiplicar {
             System.out.println(numeroEntero + " * "  + i + " = " + numeroEntero * i);
         }
     } else {
+        //Imprime por pantalla que el numero entero no estaba en el rango entre 1 y 10
         System.out.println("Tu numero entero no esta en el rango entre 1 y 10, introduzca otro numero");
     }
     }
