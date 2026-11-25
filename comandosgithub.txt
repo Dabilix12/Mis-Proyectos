@@ -1,0 +1,38 @@
+
+1. El flujo diario: Subir programas y cambios
+
+Cada vez que crees un programa nuevo o modifiques uno existente dentro de tu carpeta:
+• git status: Revisa qué archivos has creado, modificado o borrado.
+• git add .: Prepara todos los archivos nuevos/modificados para empaquetarlos.
+• git commit -m "Mensaje claro": Guarda una "foto" exacta en tu historial (ej. Añado práctica 1: calculadora).
+• git push: Envía todos tus commits guardados a tu cuenta de GitHub.
+
+2. Organizar, borrar y renombrar
+
+Para mantener tu repositorio limpio y profesional:
+• git rm nombre-archivo: Borra un archivo y prepara su eliminación en GitHub. (Si es una carpeta entera, usa git rm -r nombre-carpeta).
+• git mv nombre-viejo nombre-nuevo: Renombra o mueve un archivo/carpeta sin perder su historial.
+(Recuerda ejecutar siempre git commit -m "Organizo archivos" y git push después para aplicarlo en la web).
+
+3. Corregir errores y deshacer cambios
+
+Por si te equivocas escribiendo o rompes el código sin querer:
+• git commit --amend -m "Nuevo mensaje": Corrige el texto de tu último commit. (Si ya habías hecho push, súbelo con git push --force).
+• git restore nombre-archivo: Descarta los cambios no guardados en un archivo y lo devuelve a como estaba en el último commit.
+• git reset --soft HEAD~1: Deshace el último commit que hiciste, pero mantiene tus archivos intactos en el ordenador por si olvidaste incluir algo.
+
+4. Guardar trabajo en privado o a medias
+
+Si estás haciendo una práctica grande y aún no quieres enseñarla al público:
+• Guardar en tu ordenador sin subir: Haz git add . y git commit -m "Avance", pero no hagas git push hasta que lo termines.
+• Guardar en un "cajón" temporal (stash):
+	• git stash: Oculta temporalmente los cambios que tienes a medias para dejar tu carpeta limpia.
+	• git stash pop: Recupera esos cambios ocultos para seguir trabajando.
+• Ocultar carpetas para siempre (.gitignore): Crea un archivo llamado .gitignore en la carpeta principal y escribe dentro el nombre de las carpetas o archivos que nunca quieras subir (ej. borradores/).
+• Subir proyecto privado y hacerlo público al acabar: Publica el repositorio como Private al crearlo; cuando esté terminado, ve en GitHub a Settings > Danger Zone > Change visibility > Change to public.
+
+5. Descargar y revisar historial (Por si cambias de ordenador)
+
+• git clone <URL>: Descarga un repositorio completo desde GitHub a un ordenador nuevo.
+• git pull: Descarga los últimos cambios subidos a GitHub (muy útil si editas algo en el ordenador del instituto y luego sigues en casa).
+• git log --oneline: Muestra un listado rápido con el historial de todos los commits que has hecho.

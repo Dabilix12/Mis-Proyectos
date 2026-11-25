@@ -15,7 +15,7 @@
 | Proyecto | Descripción | Tecnología | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Prueba1) |
-| **Calculadora** | *(Próximamente)* Calculadora con operaciones básicas. | Java / JS | *En desarrollo* |
+| **Calculadora** | *(Próximamente)* Calculadora con operaciones básicas. | Java / JS | (./Calculadora) |
 
 ---
 
