@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;/*Margen es 0*/
+}
+menu {
+    font-family: sans-serif;/*Tipo de letra que utilizaremos para hacer el menu*/
+    font-size: 14px;    /*Tamaño de letra que utilizaremos para hacer el menu*/
+}
+div {
+    background-color: purple; /*Color de fondo del menu*/
+}
+div a {
+    text-decoration: none; /*Quitar el subrayado de los enlaces*/
+    color: white; /*Color de letra del menu*/
+    font-size: 20px; /*Tamaño de letra del menu*/
+    padding: 15px; /*Espacio entre el texto y el borde del menu*/
+    display: inline-block; /*Hacer que los enlaces se muestren en línea y se comporten como bloques para poder aplicar el padding*/
+}
+#cabceraderecha ul {
+    display: inline; /*Hacer que la lista se muestre en línea para que los elementos del menú estén uno al lado del otro*/
+    margin: 0; /*Quitar el margen por defecto de la lista*/
+    padding: 0; /*Quitar el padding por defecto de la lista*/   
+}
+#cabeceraderecha ul li {
+    display: inline-block; /*Hacer que los elementos de la lista se muestren en línea y se comporten como bloques para poder aplicar el padding*/
+}
+ul li:hover {
+    background: #999; /*Cambiar el color de fondo del elemento del menú cuando se pasa el ratón por encima*/
+}
+ul li:hover ul {
+    display: block; /*Mostrar el submenú cuando se pasa el ratón por encima del elemento del menú*/
+}
+ul li ul {
+    position: absolute;/*Hacer que el submenú se posicione de forma absoluta para que se muestre debajo del elemento del menú*/
+    width: 200px;/*Ancho del submenú*/
+    display: none;/*Ocultar el submenú por defecto*/
+}
+ul li ul li {
+    background: #999; /*Color de fondo de los elementos del submenú*/
+    display: block; /*Hacer que los elementos del submenú se muestren como bloques para que se muestren uno debajo del otro*/
+}
+ul li ul li a {
+    display: block; /*Hacer que los enlaces del submenú se muestren como bloques para que se muestren uno debajo del otro*/
+}
+ul li ul li:hover {
+    background: #666; /*Cambiar el color de fondo del elemento del submenú cuando se pasa el ratón por encima*/
+    color: white; ;
+}

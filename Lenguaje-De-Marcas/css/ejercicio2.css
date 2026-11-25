@@ -1,0 +1,12 @@
+#frase1 {
+    color: blue; /*Color de letra de la frase 1*/
+    font-family: 'Courier New', Courier, monospace; /*Tipo de letra de la frase 1*/
+}
+.frases-celebres {
+    color: green; /*Color de letra de las frases célebres*/
+    font-family: Arial, Helvetica, sans-serif; /*Tipo de letra de las frases célebres*/
+}
+p {
+    color: red; /*Color de letra de los párrafos*/
+    font-size: 30px;
+}

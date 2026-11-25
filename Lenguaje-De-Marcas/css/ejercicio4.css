@@ -1,0 +1,14 @@
+body {
+    color: red; background-color: silver;
+    font-family: Arial;
+}
+h1 {
+    color: white; word-spacing: 30px;
+    font-family: Tahoma;
+}
+p {
+    text-align: center; width: 250px;
+}
+ul {
+    width: 200px; background-color: purple;
+}
