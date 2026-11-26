@@ -31,6 +31,8 @@
 | **Ejercicio 3** |  Ejercicio de practica de Java Script que sumas 3 numeros solo si son iguales| JavaScript | [Ver código](./JS/ejercicio3/ejercicio3.html) |
 | **Ejercicio 4** |  Ejercicio de practica de Java Script que detecta si entre los 3 numeros que el usuario nos introduce son mayore o iguales que 10| JavaScript | [Ver código](./JS/ejercicio4/ejercicio4.html) |
 | **Ejercicio 5** |  Ejercicio de practica de Java Script que depende de los numeros que les des te ponen en distintos cuadrantes por coordenadas| JavaScript | [Ver código](./JS/ejercicio5/ejercicio5.htm) |
+| **Arrays** |  Array basico para entender como funcionan los arrays. | Java | [Ver código](./Java/Arrays/) |
+| **Metodos con Arrays** |  Aqui tenemos 2 ejercicios los cuales son ejercicios basicos para aprender a usar metodos juntos a arrays. | Java | [Ver código](./Java/metodosArrays/) |
 ---
 
 ## 📫 Contacto
