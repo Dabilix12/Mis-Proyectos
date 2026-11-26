@@ -54,6 +54,8 @@ public class GestorListaDeTareas {
                 //Pedimos al usuario que eliga el numero de la tarea que quiera eliminar por que ya la ha comletado
                 System.out.println("¿Que número de tarea completada quiere eliminar? (el numero sale al principio del nombre de la tarea)");
                 int numero = sc.nextInt();
+                //Para limpiar el enter del nextInt();
+                sc.nextLine();
                 //Tarea.remove elimina la tarea seleccionada gracias al -1, ya que el usuario cuenta 1, 2, 3 y java cuenta, 0, 1, 2.
                 tarea.remove(numero -1);
                 System.out.println("Tarea completada eliminada");
@@ -61,11 +63,12 @@ public class GestorListaDeTareas {
             //Finaliza el programa.
             case 0:
                 System.out.println("Cerrando gestor de tareas...");
+                break;
             default:
                 System.out.println("Opcion no valida.");
             }
             //Este if sirve para dejar el menu limpio y poder ver todo mejor.
-            if (opcion != 5) {
+            if (opcion != 0) {
                 System.out.println("\nPulsa ENTER para volver al menú...");
                 sc.nextLine();
             }
