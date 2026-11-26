@@ -25,7 +25,7 @@
 | **Ejercicio 3** |  Ejercicio de practica de Java Script que sumas 3 numeros solo si son iguales| JavaScript | [Ver código](./JS/ejercicio3/ejercicio3.html) |
 | **Ejercicio 4** |  Ejercicio de practica de Java Script que detecta si entre los 3 numeros que el usuario nos introduce son mayore o iguales que 10| JavaScript | [Ver código](./JS/ejercicio4/ejercicio4.html) |
 | **Ejercicio 5** |  Ejercicio de practica de Java Script que depende de los numeros que les des te ponen en distintos cuadrantes por coordenadas| JavaScript | [Ver código](./JS/ejercicio5/ejercicio5.htm) |
-| **Alagaesia** |  Ejercicio de practica de html y css antes de un examen| Html y Css | [Ver código](./Lenguaje-De-Marcas/Alagaesis) |
+| **Alagaesia** |  Ejercicio de practica de html y css antes de un examen| Html y Css | [Ver código](./Lenguaje-De-Marcas/Alagaesia) |
 | **Ejercicio 1** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio1) |
 | **Ejercicio 2** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio2) |
 | **Ejercicio 3** |  Ejercicio de practica de html y css sobre como aplicar el css| Html y Css | [Ver código](./Lenguaje-De-Marcas/ejercicio3) |
