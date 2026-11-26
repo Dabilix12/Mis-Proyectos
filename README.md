@@ -14,7 +14,7 @@
 
 | Proyecto | Descripción | Tecnología | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Gestor de tareas** | Primer programa mio fuera de unas pautas escolares . | Java | [Ver código](./Proyectos-Propios/GestorListaDeTareas) |
+| **Gestor de tareas** | Primer programa mio fuera de unas pautas escolares. | Java | [Ver código](./Proyectos-Propios/GestorListaDeTareas) |
 | **Prueba 1** | Primer programa de prueba en consola ("Hola Mundo"). | Java | [Ver código](./Java/Prueba1) |
 | **Calculadora** |  Calculadora con operaciones básicas. | Java | [Ver código](./Java/Calculadora/) |
 | **Año bisiesto** |  Programa que te dice que año es bisiesto. | Java | [Ver código](./Java/AñoBisiesto/) |
